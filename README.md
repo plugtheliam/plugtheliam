@@ -12,9 +12,6 @@ Seoul, South Korea · KST timezone · Bilingual EN/KR · 1099 contractor via Bui
 |---|---|---|
 | 🤖 **[MyInc.app](https://myinc.app)** — 10 AI employees for the $10M solo company | Private beta · paying users | TypeScript / Bun / Python / Hermes Agent runtime |
 | 🧪 **PlugLab AI Venture Studio** | Active | AI Studio + portfolio of B2B growth and content infra |
-| 🐕 **[@essotheespresso](https://www.tiktok.com/@essotheespresso)** — Shopify dog-influencer brand | 1K+ followers · live commerce | Shopify · TikTok Shop · AI UGC pipeline |
-| 📈 **POLY** — Polymarket market-making bot | Live capital + shadow validation | Rust · TypeScript |
-| 🎬 **FounderBrand** — 5-channel content engine | Daily production | Whisper · ElevenLabs · HeyGen · FFmpeg |
 
 ---
 
